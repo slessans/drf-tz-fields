@@ -1,0 +1,4 @@
+site_name: drf-tz-fields
+site_description: Pytz timezone object support for django rest framework serializers and more
+repo_url: https://github.com/slessans/drf-tz-fields
+site_dir: html
